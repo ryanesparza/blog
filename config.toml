@@ -1,4 +1,4 @@
-baseurl = "http://ryanesparza.com/"
+baseurl = "http://ryanesparza.github.io/"
 languageCode = "en-us"
 title = "Ryan Esparza's Blog"
 theme = "hugo-future-imperfect"
