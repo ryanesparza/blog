@@ -1,6 +1,6 @@
 baseurl = "https://www.ryanesparza.com"
 languageCode = "en-us"
-title = "Ryan Esparza's Blog TEST"
+title = "Ryan Esparza's Personal Blog"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
